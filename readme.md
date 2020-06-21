@@ -6,11 +6,11 @@ For Registration:
 For Signin:
 ![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/signin.JPG)
 
-To share the Documents with other Users(on hover):
-![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/online_share_users.png)
-
 All User's Status / Homepage:
 ![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/all_users_status.png)
+
+To share the Documents with other Users(on hover):
+![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/online_share_users.png)
 
 Showing User's details on hover:
 ![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/avatar_hover.png)
