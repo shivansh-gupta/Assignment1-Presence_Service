@@ -1,4 +1,4 @@
-The app is deployed using django as web framework and Sqlite3 for the local database.
+Following are the Screenshots of the app running on local system-
 
 For Registration:
 ![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/register.JPG)
@@ -6,20 +6,14 @@ For Registration:
 For Signin:
 ![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/signin.JPG)
 
-Homepage:
-![alt-text]
-
 To share the Documents with other Users(on hover):
 ![alt-text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/online_share_users.png)
 
-All User's Status:
+All User's Status / Homepage:
 ![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/all_users_status.png)
 
 Showing User's details on hover:
 ![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/avatar_hover.png)
-
-Showing all Users' status:
-![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/all_users_status.png)
 
 Forgot Password:
 ![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/blob/master/screenshots/forget_password.png)
