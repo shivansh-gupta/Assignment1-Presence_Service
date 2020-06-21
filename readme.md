@@ -1,4 +1,6 @@
-The app is deployed using django as web framework 
+The app is deployed using django as web framework and Sqlite3 for the local database.
+![alt text](https://github.com/shivansh-gupta/Assignment1-Presence_Service/tree/master/screenshots/signin.jpg?raw=true)
+
  
  
  
